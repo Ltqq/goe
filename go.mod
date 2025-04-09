@@ -1,4 +1,4 @@
-module github.com/Ltqq/goenv-setter
+module github.com/Ltqq/goe
 
 go 1.23.2
 
