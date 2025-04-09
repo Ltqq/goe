@@ -20,7 +20,7 @@
 确保你已经安装了 Go（版本 ≥ 1.16）：
 
 ```bash
-go install github.com/你的用户名/goe@latest
+go install github.com/Ltqq/goe@latest
 ```
 ## 🚀 使用示例
 - ✅ 同时设置 GOOS 和 GOARCH
